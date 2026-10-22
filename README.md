@@ -1,3 +1,12 @@
+> **第三方作品 / Third-party work**
+>
+> 原作者及上游维护者：[`dacnay816y62-hub`](https://github.com/dacnay816y62-hub)。原项目：[Cinema DNA](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)。
+> 本仓库是 GitHub 原生 Fork。**Lonc2100 不是本 Skill 的原作者**，仅提供来源说明与便于查找的分发入口。
+> 本次快照基于上游提交 `086b9d1af736f391ab6ca1f19a87cc3c3a7517fc`（README版本3.1.1）；只增加这段署名说明，不改写 Skill 规则、脚本或示例。
+> 截至2026-10-22，上游未声明许可证；**本 Fork 不以 MIT 或其他许可证重新授权第三方内容**。公开可见不表示原作者授予了任意再许可或商业使用权；权利与许可状态以原作者说明为准。
+
+---
+
 # CINEMA DNA
 
 **版本：3.1.1**
